@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Wayu Bangkamed
-- 👀 I’m interested in Backend developing
-- 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to collaborate on any web related project
 - 📫 How to reach me : gene20898@hotmail.com
 
